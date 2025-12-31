@@ -1,0 +1,12 @@
+#container{
+    display: flex;
+    gap:30px;
+    transition: all 800ms;
+    -webkit-transition: all 800ms;
+    -moz-transition: all 800ms;
+    -ms-transition: all 800ms;
+    -o-transition: all 800ms;
+}
+#solid{
+    color:rgb(162, 153, 153);
+}

@@ -1,0 +1,22 @@
+#header{
+    color:rgba(230, 192, 42, 0.886);
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    gap:30px;
+    margin-top:10px;
+    margin-bottom: 14px;
+    word-spacing: 20px;
+    
+}
+
+.hr{
+    width:50px;
+    height:3px;
+    background-color:rgba(230, 192, 42, 0.886) ;
+    margin-right: 3px;
+}
+
+#hr{
+    margin-left:3px;
+}

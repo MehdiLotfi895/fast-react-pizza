@@ -1,0 +1,14 @@
+.menu{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+.line{
+    width:115px;
+    height:3px;
+    background-color: black;
+}

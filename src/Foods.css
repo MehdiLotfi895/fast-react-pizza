@@ -1,0 +1,15 @@
+#main{
+    display: flex;
+    gap:50px;
+}
+span{
+    color: rgb(84, 82, 82);
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.food{
+    display: flex;
+    flex-direction: column;
+    gap:30px
+}
